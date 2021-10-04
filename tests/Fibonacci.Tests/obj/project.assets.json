@@ -1678,14 +1678,14 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Fibonacci/1.0.0": {
+      "Sebastien.Guidez.Fibonacci/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Sebastien.Guidez.Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Sebastien.Guidez.Fibonacci.dll": {}
         }
       }
     }
@@ -5983,7 +5983,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Fibonacci/1.0.0": {
+    "Sebastien.Guidez.Fibonacci/1.0.0": {
       "type": "project",
       "path": "../../src/Fibonacci/Fibonacci.csproj",
       "msbuildProject": "../../src/Fibonacci/Fibonacci.csproj"
@@ -5991,8 +5991,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Fibonacci >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "Sebastien.Guidez.Fibonacci >= 1.0.0",
       "coverlet.collector >= 3.0.2",
       "coverlet.msbuild >= 3.1.0",
       "xunit >= 2.4.1",
@@ -6005,11 +6005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
       "projectName": "Fibonacci.Tests",
-      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\obj\\",
+      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6024,8 +6024,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+            "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+              "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
             }
           }
         }

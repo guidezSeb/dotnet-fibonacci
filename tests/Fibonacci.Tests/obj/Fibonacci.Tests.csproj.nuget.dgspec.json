@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj": {}
+    "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj": {}
   },
   "projects": {
-    "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+    "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
-        "projectName": "Fibonacci",
-        "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
+        "projectName": "Sebastien.Guidez.Fibonacci",
+        "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\obj\\",
+        "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj": {
+    "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+        "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
         "projectName": "Fibonacci.Tests",
-        "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+        "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\tests\\Fibonacci.Tests\\obj\\",
+        "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-                "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+              "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+                "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
               }
             }
           }

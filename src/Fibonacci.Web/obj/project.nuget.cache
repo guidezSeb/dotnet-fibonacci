@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XE1gXPHWLAOcQvRvPAiAVESzKkZr+rxQCbPIJJ9/HeZ878kCg+EGCqaGB1apEdmD2esN45eTILhm48pKF9GiNw==",
+  "dgSpecHash": "gE0vlrgZbhPb0e4jqIe7SPIPr1yoGIUt4VDb6eRzRm15NQdQ6mp7d/rJ/U2cUgIYt+HcEqxDtGYQ+ZH+X6Y2pA==",
   "success": true,
-  "projectFilePath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\sebastien.guidez.fibonacci\\1.0.0\\sebastien.guidez.fibonacci.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,28 +2,34 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Fibonacci/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+      "Sebastien.Guidez.Fibonacci/1.0.0": {
+        "type": "package",
         "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fibonacci/1.0.0": {
-      "type": "project",
-      "path": "../Fibonacci/Fibonacci.csproj",
-      "msbuildProject": "../Fibonacci/Fibonacci.csproj"
+    "Sebastien.Guidez.Fibonacci/1.0.0": {
+      "sha512": "zYHPU0wNpeHGebsgzS+FUlDcRD1fnqJ7ioiGNPYdtibYjLx+KM6aR5W2oZCpEKA8cxdbDGX12zp0JRAdJIgA3g==",
+      "type": "package",
+      "path": "sebastien.guidez.fibonacci/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Fibonacci.dll",
+        "sebastien.guidez.fibonacci.1.0.0.nupkg.sha512",
+        "sebastien.guidez.fibonacci.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Fibonacci >= 1.0.0"
+      "Sebastien.Guidez.Fibonacci >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
+      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
       "projectName": "Fibonacci.Web",
-      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
+      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci.Web\\Fibonacci.Web.csproj",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci.Web\\obj\\",
+      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +56,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -66,6 +68,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Sebastien.Guidez.Fibonacci": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

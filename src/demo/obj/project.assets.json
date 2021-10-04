@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Fibonacci/1.0.0": {
+      "Sebastien.Guidez.Fibonacci/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Sebastien.Guidez.Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Sebastien.Guidez.Fibonacci.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fibonacci/1.0.0": {
+    "Sebastien.Guidez.Fibonacci/1.0.0": {
       "type": "project",
       "path": "../Fibonacci/Fibonacci.csproj",
       "msbuildProject": "../Fibonacci/Fibonacci.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Fibonacci >= 1.0.0"
+      "Sebastien.Guidez.Fibonacci >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\demo\\demo.csproj",
+      "projectName": "demo",
+      "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\demo\\demo.csproj",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Demo\\obj\\",
+      "outputPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+            "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+              "projectPath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
             }
           }
         }
