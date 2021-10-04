@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F6C3B97B-C1CF-4216-AA76-589F3284C8C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "src\Demo\Demo.csproj", "{50E8843E-6C57-4390-82F3-F4230C319F8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "src\demo\demo.csproj", "{50E8843E-6C57-4390-82F3-F4230C319F8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "src\Fibonacci\Fibonacci.csproj", "{B031903A-FDA0-4591-9154-53EA7B8128AE}"
 EndProject
