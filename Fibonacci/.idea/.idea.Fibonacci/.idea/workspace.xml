@@ -6,7 +6,9 @@
     <projectFile profileName="IIS Express">src/Fibonacci.Web/Fibonacci.Web.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9df4d9eb-f006-4484-9b77-00f33b479819" name="Changes" comment="" />
+    <list default="true" id="9df4d9eb-f006-4484-9b77-00f33b479819" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,7 @@
       <workItem from="1632746227499" duration="3922000" />
       <workItem from="1633345982269" duration="3634000" />
       <workItem from="1633349948668" duration="2864000" />
-      <workItem from="1633354391763" duration="1170000" />
+      <workItem from="1633354391763" duration="1793000" />
     </task>
     <servers />
   </component>

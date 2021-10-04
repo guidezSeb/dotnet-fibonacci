@@ -11,3 +11,16 @@ D:\M2III\dotnet\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCo
 D:\M2III\dotnet\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
 D:\M2III\dotnet\Fibonacci\src\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
 D:\M2III\dotnet\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\bin\Debug\net6.0\ref\Fibonacci.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.GlobalUsings.g.cs
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
