@@ -1,0 +1,2 @@
+D:\M2III\dotnet\demo\bin\Debug\net6.0\win-x64\publish\Demo.pdb
+D:\M2III\dotnet\demo\bin\Debug\net6.0\win-x64\publish\Demo.exe
