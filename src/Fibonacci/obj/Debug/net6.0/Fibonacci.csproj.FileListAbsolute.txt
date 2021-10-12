@@ -24,3 +24,5 @@ D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache

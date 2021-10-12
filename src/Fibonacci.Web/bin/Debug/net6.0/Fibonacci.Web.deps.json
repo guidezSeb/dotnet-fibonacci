@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fibonacci.Web/1.0.0": {
+        "dependencies": {
+          "Sebastien.Guidez.Fibonacci": "1.0.0"
+        },
+        "runtime": {
+          "Fibonacci.Web.dll": {}
+        }
+      },
+      "Sebastien.Guidez.Fibonacci/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Fibonacci.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fibonacci.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sebastien.Guidez.Fibonacci/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zYHPU0wNpeHGebsgzS+FUlDcRD1fnqJ7ioiGNPYdtibYjLx+KM6aR5W2oZCpEKA8cxdbDGX12zp0JRAdJIgA3g==",
+      "path": "sebastien.guidez.fibonacci/1.0.0",
+      "hashPath": "sebastien.guidez.fibonacci.1.0.0.nupkg.sha512"
+    }
+  }
+}
