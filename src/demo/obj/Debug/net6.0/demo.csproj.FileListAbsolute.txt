@@ -96,4 +96,15 @@ D:\M2III\dotnet\dotnet-fibonacci\src\demo\obj\Debug\net6.0\demo.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\demo\obj\Debug\net6.0\ref\demo.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\demo\obj\Debug\net6.0\demo.pdb
 D:\M2III\dotnet\dotnet-fibonacci\src\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
-D:\M2III\dotnet\dotnet-fibonacci\src\demo\obj\Debug\net6.0\demo.csproj.CopyComplete
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\appsettings.json
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\appsettings.Production.json
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\M2III\dotnet\dotnet-fibonacci\src\demo\bin\Debug\net6.0\appsettings.Development.json

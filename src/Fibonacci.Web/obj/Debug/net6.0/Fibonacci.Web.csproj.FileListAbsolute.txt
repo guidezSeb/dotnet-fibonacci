@@ -17,7 +17,6 @@ D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\Fibonacci.We
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\staticwebassets.build.json
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\staticwebassets.development.json
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\scopedcss\bundle\Fibonacci.Web.styles.css
-D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\Fibonacci.Web.csproj.CopyComplete
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\Fibonacci.Web.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\ref\Fibonacci.Web.dll
 D:\M2III\dotnet\dotnet-fibonacci\src\Fibonacci.Web\obj\Debug\net6.0\Fibonacci.Web.pdb

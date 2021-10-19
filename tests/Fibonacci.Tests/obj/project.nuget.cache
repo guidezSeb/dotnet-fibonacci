@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aOzjq886dB8+XLhFcBCyvzBU0ZDmIlyfkcJeMCHDQjgASQ8Se9Ou/DZlUOnFh1ZgwNwLm7l45T6He7dZoMcX3w==",
+  "dgSpecHash": "NLk5F5ug7RMSYo9wy3Lp+1QmEtF9YX5AMNJ3ywSFSjQhGrm69HkDUUCWSHRYln5xNPnR0CjFy9o9ed20f9BlxA==",
   "success": true,
   "projectFilePath": "D:\\M2III\\dotnet\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
   "expectedPackageFiles": [
